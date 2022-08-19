@@ -1,0 +1,1 @@
+net user administartor /active:no
